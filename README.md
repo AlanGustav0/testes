@@ -3,9 +3,9 @@
 **Exemplo de texto em negrito**
 
 _Exemplo de texto em itálico_
-Exemplo de emoticon :icecream:
+
 Exemplo de link âncora [Google](http://www.google.com.br)
-##Exemplo de título 2
+## Exemplo de título 2
 - Exemplo de lista não ordenada
 - Outro elemento da lista
 - Mais um elemento da lista
@@ -18,4 +18,6 @@ Lista de checagem
 - [ ] Escolha 4
 
 #### Outro Exemplo
-- teste
+- Mais um conteúdo
+- Continuando contaúdo
+
