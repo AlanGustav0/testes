@@ -18,3 +18,4 @@ Lista de checagem
 - [ ] Escolha 4
 
 #### Outro Exemplo
+- teste
