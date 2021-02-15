@@ -13,3 +13,4 @@ Lista de checagem
 - [ ] Escolha 1
 - [ ] Escolha 2
 - [ ] Escolha 3
+- [ ] Escolha 4
